@@ -1,0 +1,1 @@
+<h1> This is hero section {{$homecount}} </h1>
